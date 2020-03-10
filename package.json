@@ -1,0 +1,17 @@
+{
+  "name": "postnlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "jeffeverhart383@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "wink-nlp-utils": "^2.0.5"
+  }
+}
