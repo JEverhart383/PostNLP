@@ -1,7 +1,7 @@
 {
   "name": "postnlp",
   "version": "1.0.0",
-  "description": "",
+  "description": "A library for running common NLP operations on raw HTML.",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
@@ -13,5 +13,9 @@
   },
   "dependencies": {
     "wink-nlp-utils": "^2.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JEverhart383/PostNLP"
   }
 }
